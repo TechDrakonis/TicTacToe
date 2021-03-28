@@ -5,8 +5,9 @@
 
 ## IDEA
 The idea of this project was to create an terminal based TicTacToe application
-written in C++ to show the usage of the c++s50 library in an actual project.
-But it also had educational reasons i.e. to understand C++ logics better.
+for two players written in C++ to show the usage of the c++s50 library in an 
+actual project. But it also had educational reasons i.e. to understand C++ 
+logics better.
 
 ## Installation-Guide
 Download the ideal package for your system [Linux user: .tar.gz; Windows users:
